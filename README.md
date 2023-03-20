@@ -1,1 +1,3 @@
 # SoftArch
+**Git fuer Software-Architektur**
+Hier ist noch viel Arbeit notwendig.... 
